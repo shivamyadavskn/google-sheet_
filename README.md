@@ -1,6 +1,6 @@
 # google-sheet_
 
-Deployment link https://shivamyadavskn.github.io/pincode_Project/
+Deployment link https://shivamyadavskn.github.io/google-sheet_/
 
 Technology:
 HTML
